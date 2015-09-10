@@ -1,5 +1,5 @@
 # AzuraOne
-The first Azura Projects
+The "first" Azura Projects
 
 # Aturan comment Push
 Agar memudahkan dalam dokumentasi, mohon untuk mengikuti aturan berikut, setiap mau Push/Commit.
