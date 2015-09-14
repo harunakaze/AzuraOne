@@ -6,7 +6,7 @@ using System.Collections;
 public class TouchDetector : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 {
 	[HideInInspector]
-	public bool isClicked;
+	public bool isClicked { get; private set; }
 
 	//TODO: Implement double touch protection
 
