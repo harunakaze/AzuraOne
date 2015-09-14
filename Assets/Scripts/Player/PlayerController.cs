@@ -4,7 +4,7 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
-	public
+	public Image touchDetector;
 
 	void Start ()
 	{
